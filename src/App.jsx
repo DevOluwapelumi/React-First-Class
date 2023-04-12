@@ -13,9 +13,9 @@ function App() {
 
   return (
     <>
-      {/* <Hero />
+      <Hero />
       <Navbar />
-      <Second /> */}
+      <Second />
       <Fetch />
     </>
   )
