@@ -53,4 +53,5 @@ You can test your application in the browser, make changes to your components, a
 
 Build for Production:
 When you're ready to deploy your React app, you can create a production build using the following command:
+npm run build
 
