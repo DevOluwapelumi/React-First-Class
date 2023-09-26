@@ -45,4 +45,12 @@ function App() {
 
 export default App;
 
+Style Your Components:
+You can style your components using CSS or a CSS-in-JS library like styled-components or Emotion. Add CSS files or use inline styles within your components as needed.
+
+Test and Continue Development:
+You can test your application in the browser, make changes to your components, and see the updates in real-time as you save your files. React's hot-reloading feature ensures that your changes are reflected instantly.
+
+Build for Production:
+When you're ready to deploy your React app, you can create a production build using the following command:
 
