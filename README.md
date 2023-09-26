@@ -28,3 +28,8 @@ function HelloWorld() {
 
 export default HelloWorld;
 eact component in it:
+
+Use Your React Component:
+You can use the HelloWorld component in the src/App.js file (or any other component) like this:
+
+
