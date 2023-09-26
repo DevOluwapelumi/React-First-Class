@@ -13,3 +13,7 @@ cd my-react-app
 Start the Development Server:
 You can start the development server with the following command:
 npm start
+This will run your React app in development mode and open it in your default web browser. You can see the changes you make in real-time.
+
+Write Your First React Component:
+React is all about creating reusable components. You can create a new component by creating a JavaScript file with a .js extension. For example, you can create a HelloWorld.js file in your project directory and define a simple React component in it:
