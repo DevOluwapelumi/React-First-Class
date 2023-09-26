@@ -9,3 +9,6 @@ Replace my-react-app with your desired project name.
 Navigate to Your Project Directory:
 Once the installation is complete, navigate to the project directory using the cd command:
 cd my-react-app
+
+Start the Development Server:
+You can start the development server with the following command:
