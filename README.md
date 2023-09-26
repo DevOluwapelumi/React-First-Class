@@ -12,3 +12,4 @@ cd my-react-app
 
 Start the Development Server:
 You can start the development server with the following command:
+npm start
