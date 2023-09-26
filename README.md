@@ -32,4 +32,17 @@ eact component in it:
 Use Your React Component:
 You can use the HelloWorld component in the src/App.js file (or any other component) like this:
 
+import React from 'react';
+import HelloWorld from './HelloWorld';
+
+function App() {
+  return (
+    <div className="App">
+      <HelloWorld />
+    </div>
+  );
+}
+
+export default App;
+
 
